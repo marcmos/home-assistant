@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meteo>
+<miasto>Kraków</miasto>
+<nazwa_stacji>Zespół Fizyki Środowiska</nazwa_stacji>
+<szerokosc_geograficzna>50°04'N</szerokosc_geograficzna>
+<dlugosc_geograficzna>19°57'E</dlugosc_geograficzna>
+<wysokosc_npm>202m</wysokosc_npm>
+<dane_aktualne data="2018-12-17 18:14:05+01">
+<ta>-0.7 °C</ta>
+<ua>70.9 %</ua>
+<odew>-5.3 °C</odew>
+<owindchill>0.4 °C</owindchill>
+<oheatindex>Brak danych</oheatindex>
+<sx>0.6 m/s</sx>
+<sm>0.3 m/s</sm>
+<dm>214 °</dm>
+<pa>997.4 hPa</pa>
+<barosealevel>1023.5 hPa</barosealevel>
+<rc>0 mm</rc>
+<hc>0 hits/cm^2</hc>
+<ri>0 mm/h</ri>
+<hi>0 hits/(cm^2*h)</hi>
+<tendency>cloudy</tendency>
+</dane_aktualne>
+</meteo>
